@@ -1,0 +1,21 @@
+Edge:
+    face_l
+    face_r
+
+Corner:
+    edge_d
+
+Face1:
+    up
+    back
+
+Face2:
+    face:
+        white
+        yellow
+        left
+        right
+    face_left:
+        right
+    face_right:
+        left
